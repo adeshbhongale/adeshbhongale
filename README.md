@@ -19,10 +19,10 @@
   <a href="mailto:adeshbhongale03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/adesh-ingale-997226241/" target="_blank">
+  <a href="https://www.linkedin.com/in/adesh-bhongale-58830025b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/adeshingale3" target="_blank">
+  <a href="https://github.com/adeshbhongale" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -40,5 +40,5 @@
 
 <div align="left">
    <h2> 📊 Adesh's Github Stats</h2>
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=adeshingale3&show_icons=true&theme=radical" alt="Adesh's GitHub stats"/>
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=adeshbhongale&show_icons=true&theme=radical" alt="Adesh's GitHub stats"/>
 </div>
