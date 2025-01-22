@@ -9,8 +9,9 @@
 <div align="left">
     👨‍🎓 Final Year Computer Science Student<br>
     🎨 Also love to design unique shit <br>
-    😿 How many aura point will you give me if I tell you that I started my coding journey in my last year <br>
-    💭 Currently learning frontend developement deeply<br>
+    😿 How many aura points will you give me if I tell you that <be>
+        I started my coding journey in my last year <br>
+    💭 Currently learning Backend development deeply<br>
 <!--     ⚡ Fun fact **** -->
  </div>
 <br/>
@@ -22,7 +23,7 @@
   <a href="https://www.linkedin.com/in/adesh-bhongale-58830025b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/adeshbhongale" target="_blank">
+  <a href="https://adeshbhongale.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -31,7 +32,7 @@
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,photoshop,dart,flutter" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,CSS,javascript,nodejs,expressjs,mongodb,vscode,github,git,dart,flutter" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,java" /><br>
 </div>
 
