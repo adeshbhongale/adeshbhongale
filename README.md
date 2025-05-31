@@ -8,7 +8,7 @@
 
 <div align="left">
     👨‍🎓 Final Year Computer Science Student<br>
-    🎨 Also love to design unique shit <br>
+    🎨 Also love to design unique interfaces <br>
     😿 How many aura points will you give me if I tell you that <be>
         I started my coding journey in my last year <br>
     💭 Currently learning Backend development deeply<br>
@@ -43,6 +43,6 @@
    <h2> 📊 Adesh's Github Stats</h2>
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=adeshbhongale&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="Adesh's GitHub stats"/>
 </div>
-<be claer="both"/>
+<be clear="both"/>
 <img src="https://raw.githubusercontent.com/adeshbhongale/adeshbhongale/output/snake.svg" alt="Snake animation" />
 <br/>
