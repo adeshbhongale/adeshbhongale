@@ -44,5 +44,5 @@
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=adeshbhongale&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="Adesh's GitHub stats"/>
 </div>
 <br/>
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/adeshbhongale/adeshbhongale/output/snake.svg" alt="Snake animation" />
 <br/>
