@@ -41,5 +41,5 @@
 
 <div align="left">
    <h2> 📊 Adesh's Github Stats</h2>
-    <img width=390 src="https://github-readme-stats.vercel.app/api?adeshbhongale=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="Adesh's GitHub stats"/>
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=adeshbhongale&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="Adesh's GitHub stats"/>
 </div>
